@@ -32,6 +32,8 @@ This project is organized into clean, modular folders for scalability:
 
 └── README.md # Project documentation
 
+---
+
 ## ✨ Features
 
 - 🔗 Sticky **navigation bar** with mobile-friendly toggle
@@ -54,12 +56,13 @@ This project is organized into clean, modular folders for scalability:
 
 ## 🛠️ Getting Started
 
-- Clone the repo
+Clone the repo
 
 1. git clone https://github.com/JawamaKE/Final-project-and-deployment.git
 2. cd Final-project-and-deployment
 
-- Open in browser
+Open in browser
+
 - Simply open index.html in your browser to preview the site. (No build tools required – it’s pure HTML/CSS/JS.)
 
 ---
