@@ -21,11 +21,15 @@ This project demonstrates:
 This project is organized into clean, modular folders for scalability:
 
 ├── index.html # Main entry point (Home, About, Services, Contact in one file)
+
 ├── css/
 │ └── style.css # Styles for layout, colors, responsiveness
+
 ├── js/
 │ └── script.js # JavaScript for interactivity (menu toggle, form validation)
+
 ├── images/ # Images used in hero and about sections
+
 └── README.md # Project documentation
 
 ## ✨ Features
@@ -51,11 +55,12 @@ This project is organized into clean, modular folders for scalability:
 ## 🛠️ Getting Started
 
 - Clone the repo
-  git clone https://github.com/JawamaKE/Final-project-and-deployment.git
-  cd Final-project-and-deployment
+
+1. git clone https://github.com/JawamaKE/Final-project-and-deployment.git
+2. cd Final-project-and-deployment
 
 - Open in browser
-  Simply open index.html in your browser to preview the site. (No build tools required – it’s pure HTML/CSS/JS.)
+- Simply open index.html in your browser to preview the site. (No build tools required – it’s pure HTML/CSS/JS.)
 
 ---
 
